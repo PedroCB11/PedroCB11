@@ -4,23 +4,12 @@
 const PedroBressan = {
     pronouns: 'he/him',
     nickName: 'PedroCB11',
-    code: ['Javascript'],
-    Languages: 'English, French, Spanish',
+    code: ['c++','c', 'sql', 'Java', 'arduino'],
+    languages: 'English, French, Spanish',
     askMeAbout: ['Robotic', 'Mini-Sumo 500g', 'Games', 'CSGO','Study','Inatel'],
-    message: "Graduando em Engenharia de Computação, atualmente voluntário na equipe Robotbulls."
-    outhers: ['git', 'npm', 'test case', 'bdd', 'gherkin', 'cucumber'],
-    technologies: {
-        frontEndTest: {
-            web: ['Cypress']
-        backEnd: {
-            js: ['node.js'],
-            api: ['Postman','Cypress']
-        },
-        os: ['windows', 'linux'],
-        ides: ['IntelliJ', 'vscode'],
-        cicd: ['github actions'],
-        managementTools: ['jira'],
-        agileMethodologies: ['Scrum']
+    message: "Graduando em Engenharia de Computação, atualmente voluntário na equipe de robótica e programação Robotbulls atuando na area de Mini-Sumo 500g."
+    os: ['windows', 'macOS'],
+    ides: ['IntelliJ', 'vscode', 'ArduinoIDE', 'CCStudio]
     }
 };
 ```
@@ -28,15 +17,20 @@ const PedroBressan = {
 # **Skills**
 <br>
 
-### Frameworks 
-[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)]() [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
-
-### Languages 
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]() 
+### Languages
+[![CPlus](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]() 
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]() ]
+<div> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/euquerocomida" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
 ### IDES
 [![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]() 
 [![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)]() 
+
+### OS
+[![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]() 
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() 
 
 # **Social Media**
 <div> 
