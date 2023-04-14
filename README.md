@@ -7,9 +7,9 @@ const PedroBressan = {
     code: ['c++','c', 'sql', 'Java', 'arduino'],
     languages: 'English, French, Spanish',
     askMeAbout: ['Robotic', 'Mini-Sumo 500g', 'Games', 'CSGO','Study','Inatel'],
-    message: "Graduando em Engenharia de Computação, atualmente voluntário na equipe de robótica e programação Robotbulls atuando na area de Mini-Sumo 500g."
+    message: "Graduando em Engenharia de Computação, atualmente voluntário na equipe de robótica e programação Robotbulls atuando na area de Mini-Sumo 500g.",
     os: ['windows', 'macOS'],
-    ides: ['IntelliJ', 'vscode', 'ArduinoIDE', 'CCStudio]
+    ides: ['IntelliJ', 'vscode', 'ArduinoIDE', 'CCStudio']
     }
 };
 ```
@@ -32,7 +32,6 @@ const PedroBressan = {
 
 # **Social Media**
 <div> 
-  <a href="https://www.instagram.com/diioice/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/euquerocomida" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joyce-dacosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="[https://www.instagram.com/diioice/](https://www.instagram.com/_pedrobressan/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/p-bressan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
