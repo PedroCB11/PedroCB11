@@ -8,7 +8,7 @@ const PedroBressan = {
     languages: 'English, French, Spanish',
     askMeAbout: ['Robotic', 'Mini-Sumo 500g', 'Games', 'CSGO','Study','Inatel'],
     message: "Graduando em Engenharia de Computação, atualmente voluntário na equipe de robótica e programação Robotbulls atuando na area de Mini-Sumo 500g.",
-    os: ['windows', 'macOS'],
+    os: ['windows'],
     ides: ['IntelliJ', 'vscode', 'ArduinoIDE', 'CCStudio']
     }
 };
