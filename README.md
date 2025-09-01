@@ -4,7 +4,7 @@
 const PedroBressan = {
     pronouns: 'he/him',
     nickName: 'PedroCB11',
-    code: ['c++','c', 'sql', 'Java', 'arduino'],
+    code: ['c++','c', 'sql', 'Java', 'arduino', 'typescript', 'Node.js', 'React'],
     languages: 'English, French, Spanish, Portuguese',
     askMeAbout: ['Robotic', 'Mini-Sumo 500g', 'Games', 'CSGO','Study','Inatel'],
     message: "Graduando em Engenharia de Computação, atualmente voluntário na equipe de robótica e programação Robotbulls atuando na area de Mini-Sumo 500g.",
